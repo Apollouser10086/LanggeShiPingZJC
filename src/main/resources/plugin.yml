@@ -1,0 +1,13 @@
+name: LangGeAttribute
+version: 1.0.0
+main: org.dutelang.run
+api-version: 1.12.2
+authors: [lang ge]
+description: 饰品属性应用插件 - 与 LangGeShiPingAPI 和 SXAttribute 联动
+depend: [SX-Attribute]
+
+commands:
+  langgeattr:
+    description: 查看饰品属性插件信息
+    usage: /langgeattr
+

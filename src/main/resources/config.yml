@@ -1,0 +1,26 @@
+# LangGeAttribute 配置文件
+
+# 是否启用调试模式
+debug: false
+
+# 属性前缀（用于区分来自饰品的属性）
+attribute-prefix: "&6[饰品]&r "
+
+# 玩家加入时是否自动应用属性
+auto-apply-on-join: true
+
+# 支持的属性列表
+supported-attributes:
+  - attack
+  - armor
+  - health
+  - crit_rate
+  - crit_damage
+  - ignore_armor
+  - damage_boost
+  - armor_boost
+  - health_boost
+  - lifesteal
+  - crit_resist
+  - thorns_resist
+  - speed
